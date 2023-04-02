@@ -2,10 +2,10 @@ ChatGPT Twitch Bot
 
 This is the simplest possible nodejs api using express that responds to any request with: 
 ```
-Yo!
+Qiubo!
 ```
 
-https://YOUR_URL.cyclic.app/gpt/:text
+https://careful-eel-visor.cyclic.app/gpt/:text
 
 
 ### Deploy it in 7 seconds: 
